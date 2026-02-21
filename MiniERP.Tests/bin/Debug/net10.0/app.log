@@ -1,0 +1,44 @@
+2026-02-20 20:48:07 [INFO] Kunde hinzugefügt: ID 1
+2026-02-20 20:51:24 [INFO] Kunde hinzugefügt: ID 1
+2026-02-20 20:51:24 [ERROR] Kunde mit ID 1 existiert bereits.
+2026-02-20 20:51:24 [INFO] Kunde hinzugefügt: ID 1
+2026-02-20 20:53:14 [ERROR] Löschversuch: Kunde 999 nicht gefunden.
+2026-02-20 20:53:14 [INFO] Kunde hinzugefügt: ID 1
+2026-02-20 20:53:14 [ERROR] Kunde mit ID 1 existiert bereits.
+2026-02-20 20:53:14 [INFO] Kunde hinzugefügt: ID 1
+2026-02-20 20:53:14 [INFO] Kunde hinzugefügt: ID 1
+2026-02-20 20:53:14 [INFO] Kunde gelöscht: ID 1
+2026-02-20 20:54:44 [ERROR] Löschversuch: Kunde 999 nicht gefunden.
+2026-02-20 20:54:44 [INFO] Kunde hinzugefügt: ID 1
+2026-02-20 20:54:44 [ERROR] Kunde mit ID 1 existiert bereits.
+2026-02-20 20:54:44 [INFO] Kunde hinzugefügt: ID 1
+2026-02-20 20:54:44 [INFO] Kunde hinzugefügt: ID 1
+2026-02-20 20:54:44 [INFO] Kunde gelöscht: ID 1
+2026-02-20 20:54:44 [INFO] Kunde hinzugefügt: ID 1
+2026-02-20 20:55:58 [ERROR] Löschversuch: Kunde 999 nicht gefunden.
+2026-02-20 20:55:58 [INFO] Kunde hinzugefügt: ID 1
+2026-02-20 20:55:58 [INFO] Kunde aktualisiert: ID 1
+2026-02-20 20:55:58 [INFO] Kunde hinzugefügt: ID 1
+2026-02-20 20:55:58 [ERROR] Kunde mit ID 1 existiert bereits.
+2026-02-20 20:55:58 [INFO] Kunde hinzugefügt: ID 1
+2026-02-20 20:55:58 [INFO] Kunde hinzugefügt: ID 1
+2026-02-20 20:55:58 [INFO] Kunde gelöscht: ID 1
+2026-02-20 20:55:58 [INFO] Kunde hinzugefügt: ID 1
+2026-02-20 20:56:58 [ERROR] Löschversuch: Kunde 999 nicht gefunden.
+2026-02-20 20:56:58 [INFO] Kunde hinzugefügt: ID 1
+2026-02-20 20:56:58 [INFO] Kunde aktualisiert: ID 1
+2026-02-20 20:56:58 [INFO] Kunde hinzugefügt: ID 1
+2026-02-20 20:56:58 [ERROR] Kunde mit ID 1 existiert bereits.
+2026-02-20 20:56:58 [INFO] Kunde hinzugefügt: ID 1
+2026-02-20 20:56:58 [INFO] Kunde hinzugefügt: ID 1
+2026-02-20 20:56:58 [INFO] Kunde gelöscht: ID 1
+2026-02-20 20:56:58 [INFO] Kunde hinzugefügt: ID 1
+2026-02-20 21:02:12 [ERROR] Löschversuch: Kunde 999 nicht gefunden
+2026-02-20 21:02:12 [INFO] Kunde hinzugefügt: ID 1
+2026-02-20 21:02:12 [INFO] Kunde aktualisiert: ID 1
+2026-02-20 21:02:12 [INFO] Kunde hinzugefügt: ID 1
+2026-02-20 21:02:12 [ERROR] Kunde mit ID 1 existiert bereits.
+2026-02-20 21:02:12 [INFO] Kunde hinzugefügt: ID 1
+2026-02-20 21:02:12 [INFO] Kunde hinzugefügt: ID 1
+2026-02-20 21:02:12 [INFO] Kunde gelöscht: ID 1
+2026-02-20 21:02:12 [INFO] Kunde hinzugefügt: ID 1
