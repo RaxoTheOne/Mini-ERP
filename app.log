@@ -1,0 +1,6 @@
+2026-02-17 09:18:00 [INFO] Neuer Kunde hinzugefügt: ID: 6)
+2026-02-19 17:39:17 [ERROR] Kunde mit ID 1 existiert bereits.
+2026-02-19 18:09:22 [INFO] Kunde hinzugefügt: ID 7
+2026-02-19 18:09:42 [INFO] Kunde aktualisiert: ID 5
+2026-02-19 18:10:02 [INFO] Kunde gelöscht: ID 7
+2026-02-20 21:03:04 [INFO] Kunde hinzugefügt: ID 7
