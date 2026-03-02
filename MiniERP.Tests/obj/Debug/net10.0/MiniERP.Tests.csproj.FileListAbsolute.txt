@@ -102,3 +102,4 @@
 /Users/benjamingayda-knop/Mini-ERP/MiniERP.Tests/obj/Debug/net10.0/MiniERP.Tests.pdb
 /Users/benjamingayda-knop/Mini-ERP/MiniERP.Tests/obj/Debug/net10.0/MiniERP.Tests.genruntimeconfig.cache
 /Users/benjamingayda-knop/Mini-ERP/MiniERP.Tests/obj/Debug/net10.0/ref/MiniERP.Tests.dll
+/Users/benjamingayda-knop/Mini-ERP/MiniERP.Tests/obj/Debug/net10.0/MiniERP.Tests.sourcelink.json
