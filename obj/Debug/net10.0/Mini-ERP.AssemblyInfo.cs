@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mini-ERP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9432e1e1900346a898c1bab4184030059cfb8c16")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e3ef05172792960d2047cc276a27c8b0a61cc7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mini-ERP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mini-ERP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
