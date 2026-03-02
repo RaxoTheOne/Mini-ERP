@@ -12,3 +12,4 @@
 /Users/benjamingayda-knop/Mini-ERP/obj/Debug/net10.0/Mini-ERP.pdb
 /Users/benjamingayda-knop/Mini-ERP/obj/Debug/net10.0/Mini-ERP.genruntimeconfig.cache
 /Users/benjamingayda-knop/Mini-ERP/obj/Debug/net10.0/ref/Mini-ERP.dll
+/Users/benjamingayda-knop/Mini-ERP/obj/Debug/net10.0/Mini-ERP.sourcelink.json
