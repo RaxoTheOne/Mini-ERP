@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniERP.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f35ee1f5256ad270e56b47ee556aa4fdc0b0e695")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a1b5713973be0d80639cb141b6d04a25783a2d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniERP.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniERP.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -60,3 +60,12 @@
 2026-03-02 22:36:44 [INFO] Kunde hinzugefügt: ID 1
 2026-03-02 22:36:44 [INFO] Kunde gelöscht: ID 1
 2026-03-02 22:36:44 [INFO] Kunde hinzugefügt: ID 1
+2026-03-03 17:36:44 [ERROR] Löschversuch: Kunde 999 nicht gefunden
+2026-03-03 17:36:44 [INFO] Kunde hinzugefügt: ID 1
+2026-03-03 17:36:44 [INFO] Kunde aktualisiert: ID 1
+2026-03-03 17:36:44 [INFO] Kunde hinzugefügt: ID 1
+2026-03-03 17:36:44 [ERROR] Kunde mit ID 1 existiert bereits.
+2026-03-03 17:36:44 [INFO] Kunde hinzugefügt: ID 1
+2026-03-03 17:36:44 [INFO] Kunde hinzugefügt: ID 1
+2026-03-03 17:36:44 [INFO] Kunde gelöscht: ID 1
+2026-03-03 17:36:44 [INFO] Kunde hinzugefügt: ID 1
